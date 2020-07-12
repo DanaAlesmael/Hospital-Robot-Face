@@ -10,4 +10,4 @@ Simple design was followed when designing the hospital robot's head, which is ta
 
 
 
-* With all this being done, the robot body's dimenssion should be fixed to match with its head. This issue is faced because I have started designing the robot's body first. 
+* With all this being done, the robot body's dimenssion should be fixed to match with its head. This issue is faced because I have started designing the robot's body first, which can be seen in https://github.com/DanaAlesmael/Hospital-Robot-Body.git 
