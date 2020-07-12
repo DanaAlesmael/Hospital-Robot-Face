@@ -4,7 +4,7 @@ Simple design was followed when designing the hospital robot's head, which is ta
 
 * The dimenssions were followed, as seen in the posted picture names IpadDim. 
 * The stand has 4 holes on its base to help attaching it to the robot's body. 
-* The Ipad cover was located ... for easier communication process. 
+* The Ipad cover was not located straight for easier communication process. The material for this part should be soft for easier placement of the ipad and to avoid damaging it. 
 * The company's shortcut (SM) was attached to the back of the ipad stand to give the work credit. 
 
 
