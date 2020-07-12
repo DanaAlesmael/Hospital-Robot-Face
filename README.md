@@ -8,3 +8,6 @@ Simple design was followed when designing the hospital robot's head, which is ta
 * The company's shortcut (SM) was attached to the back of the ipad stand to give the work credit. 
 
 
+
+
+* With all this being done, the robot body's dimenssion should be fixed to match with its head. This issue is faced because I have started designing the robot's body first. 
